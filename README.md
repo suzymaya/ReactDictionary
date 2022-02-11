@@ -1,0 +1,2 @@
+# ReactDictionary
+React, Redux
